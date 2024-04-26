@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
+// Это функция для сложения
 func Add(a, b int) int {
 	return a + b
 }
